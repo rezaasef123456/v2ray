@@ -1,10 +1,7 @@
-vless://3a0e4040-67cc-43e0-a9fb-98e15ddb0526@138.124.90.177:10443?encryption=none&security=none&sni=138.124.90.177&type=tcp&headerType=none#%40DeltaKroneckerGithub
-vless://5b01dc2d-6892-49b8-8289-3f73a32e00e4@3696b38bsg.murphyweb.sbs:32134?encryption=none&flow=xtls-rprx-vision&security=reality&sni=buylite.music.apple.com&fp=qq&pbk=OdTELUjAUKO_qr-O-uihaAZJAhA8GyIWVI6CpozVCU4&sid=6c6c7c97&type=tcp&headerType=none#%40DeltaKroneckerGithub
-vless://68c3d665-b2b5-4ffb-9f37-9f3d8c47324d@fi-p1.h1cloud.net:25481?encryption=none&security=reality&sni=www.bing.com&fp=random&pbk=mhIAHuZIEr2NpdGGSeOxar7VRSgEfVoNwb_G8Y0073E&sid=3b84fc70657725af&spx=%2F&type=grpc&authority=&serviceName=8cb5baa18cd7&mode=gun#%40DeltaKroneckerGithub
-vless://eae4af7f-0a0c-4af9-8f5f-b7dd403e59d5@136.175.179.94:8444?encryption=none&security=none&fp=chrome&type=tcp&headerType=none#%40DeltaKroneckerGithub
-vless://19d5a678-8396-4e3b-93da-ece618d0e83a@hinet1.2yly.com:24215?encryption=none&security=reality&sni=addons.mozilla.org&fp=chrome&pbk=mdWKUPMVTtTbDqK10BPb89OcqBC2-Lx-4NOYtqc1GWE&type=tcp&headerType=none#%40DeltaKroneckerGithub
-trojan://Trojan%4082164024@ca.tronsg.com:443?security=tls&sni=ca.tronsg.com&allowInsecure=1&type=tcp&headerType=none#%40DeltaKroneckerGithub
+vless://d54a7512-dda3-4218-8ae7-c591d300fd7c@13.141.51.119:25543?encryption=none&security=reality&sni=www.samsung.com&fp=firefox&pbk=4Za5KMqvi-BTi4bvsqnne264SBqo9cSkHq0F_M8W03M&sid=6dc7eb63f7edde90&type=tcp&headerType=none#%40DeltaKroneckerGithub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5N0tlUlR6bUgwdlhUMmtw@20.234.202.46:443#%40DeltaKroneckerGithub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5N0tlUlR6bUgwdlhUMmtw@c3.nastuh.link:443#%40DeltaKroneckerGithub
-vless://0c3ad9d5-cffd-4748-b8df-ab145288144b@fi-p1.h1cloud.net:25634?encryption=none&security=reality&sni=www.icloud.com&fp=chrome&pbk=xjmKTfAwtZNtyMrfGSo1a-Xc807CIdJXsboMsDMROFA&sid=12e9af979082beab&type=grpc&authority=&serviceName=2894574fe211&mode=gun#%40DeltaKroneckerGithub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#%40DeltaKroneckerGithub
-vless://75c5f51b-d548-4eab-a26e-aa10fc3dbc7b@147.93.173.45:10444?encryption=none&flow=xtls-rprx-vision&security=reality&sni=video.yandex.ru&fp=safari&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&sid=8debcf36f1cc69ff&type=tcp&headerType=none#%40DeltaKroneckerGithub
+vless://5b01dc2d-6892-49b8-8289-3f73a32e00e4@3696b38bsg.murphyweb.sbs:32134?encryption=none&flow=xtls-rprx-vision&security=reality&sni=buylite.music.apple.com&fp=qq&pbk=OdTELUjAUKO_qr-O-uihaAZJAhA8GyIWVI6CpozVCU4&sid=6c6c7c97&type=tcp&headerType=none#%40DeltaKroneckerGithub
+trojan://ZLNrfFIw6IXWvhFvGEWi4EcsWJ76ZiDh@160.21.74.183:8443?security=tls&sni=160.21.74.183&fp=chrome&allowInsecure=1&type=tcp&headerType=none#%40DeltaKroneckerGithub
+vless://b7df9363-087b-48f7-a4ca-6e988ebf7f35@193.135.137.12:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=amd.com&fp=random&pbk=aV7fW5RmH-i6HzOiqnFlMwV_ZgfuutMpeWWfEaJBsTM&sid=5bfa1416&type=tcp&headerType=none#%40DeltaKroneckerGithub
+vless://0c3ad9d5-cffd-4748-b8df-ab145288144b@162.35.171.247:25717?encryption=none&security=reality&sni=www.icloud.com&fp=firefox&pbk=JCvFvv5_pD6JM9CTAaAay7mr831D-1Erz3M62Fikg18&sid=adc760c77e5d1b1b&type=grpc&authority=&serviceName=be76031e00f1&mode=gun#%40DeltaKroneckerGithub
